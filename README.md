@@ -5,4 +5,4 @@ Here are some ideas to get you started:
 - 💻 My major is data engineering
 - ✉️ How to reach me: https://www.facebook.com/profile.php?id=100013152841349
 - 🙂 Pronouns: He/Hieu
-![](https://media.giphy.com/media/l2olcETxXQjImhNcm2/giphy.gif)
+- ![](https://media.giphy.com/media/l2olcETxXQjImhNcm2/giphy.gif)
